@@ -12,7 +12,7 @@ public class HealthPotion : MonoBehaviour
         {
             Debug.Log(gameObject.name + " Collided");
             Destroy(gameObject);
-            OnHealthPotionCollected?.Invoke(10f);
+            OnHealthPotionCollected?.Invoke(20f);
         }
     }
 }
