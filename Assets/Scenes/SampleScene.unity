@@ -5177,7 +5177,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -234525338988040796, guid: dad65b70ec0714709a60f434964f188f, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2438875880634913376, guid: dad65b70ec0714709a60f434964f188f, type: 3}
       propertyPath: startTimeBetweenAttack
